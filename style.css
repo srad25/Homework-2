@@ -1,0 +1,38 @@
+body {
+    background: burlywood;
+}
+/*navigation bar*/
+.mynav {
+  background: cornsilk !important;
+}
+.mynav a {
+  margin-right: 30px;
+}
+.mynav a:hover {
+  border-bottom: 1px solid black;
+}
+.navbar-brand {
+  font-size: 20px;
+  font-weight: bold;
+}
+/*footer*/
+footer {
+  background: cornsilk;
+  text-align: center;
+  margin-top: 700px;
+  padding: 20px;
+}
+.media i {
+  color: gray;
+  font-size: 30px;
+}
+/*contact form*/
+.container {
+    background: cornsilk;
+    margin-top: 50px;
+    padding: 20px;
+  }
+ .btn:hover {
+    transform: scale(1.05);
+  }
+   
