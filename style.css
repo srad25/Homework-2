@@ -4,6 +4,7 @@ body {
 /*navigation bar*/
 .mynav {
   background: cornsilk !important;
+  padding: 20px;
 }
 .mynav a {
   margin-right: 30px;
@@ -20,16 +21,19 @@ footer {
   background: cornsilk;
   text-align: center;
   margin-top: 700px;
-  padding: 20px;
+  padding: 22px;
 }
 .media i {
   color: gray;
   font-size: 30px;
 }
+.media i:hover {
+  transform: scale(1.20);
+}
 /*contact form*/
 .container {
     background: cornsilk;
-    margin-top: 50px;
+    margin-top: 100px;
     padding: 20px;
   }
  .btn:hover {
