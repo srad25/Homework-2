@@ -7,7 +7,9 @@ A mobile ready responsive portfolio, with links to three separate pages. There i
 1. HTML
 2. CSS
 3. Bootstrap
+
 ## Screenshots of Portfolio
+
 #### About Me
 ![alt text](./assets/images/aboutMe.png "pic of Home page.")
 
