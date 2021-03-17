@@ -1,9 +1,9 @@
 body {
-    background: burlywood;
+    background: silver;
 }
 /*navigation bar*/
 .mynav {
-  background: cornsilk !important;
+  background: rgb(125, 125, 146) !important;
   padding: 20px;
 }
 .mynav a {
@@ -16,32 +16,54 @@ body {
   font-size: 20px;
   font-weight: bold;
 }
-.card{
-  width: 300px;
+/* hero section*/
+#hero {
+  text-align: center;
+  padding: 100px;
+}
+H1 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+/*cards*/
+.card {
+  width: 280px;
   height: 100%;
   margin-left: auto;
   margin-right: auto;
+  background-color: rgb(125, 125, 146);
+}
+.card-body {
+
 }
 /*footer*/
 footer {
-  background: cornsilk;
+  background: rgb(125, 125, 146);
   text-align: center;
-  margin-top: 700px;
-  padding: 22px;
+  margin-top: 200px;
+  padding: 50px;
 }
 .media i {
-  color: gray;
+  color: rgb(58, 57, 57);
   font-size: 30px;
 }
 .media i:hover {
   transform: scale(1.20);
 }
 /*contact form*/
-.container {
-    background: cornsilk;
-    margin-top: 100px;
-    padding: 20px;
-  }
+.container-box {
+    background: rgb(125, 125, 146);
+    margin-top: 50px;
+    padding: 10px;
+}
+#details {
+  margin-top: 70px;
+  padding: 20px;
+
+}
+.form-control {
+  background-color: silver;
+}
  .btn:hover {
     transform: scale(1.05);
   }
