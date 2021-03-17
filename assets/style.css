@@ -31,10 +31,10 @@ H1 {
   height: 100%;
   margin-left: auto;
   margin-right: auto;
-  background-color: rgb(125, 125, 146);
+  background-color: rgb(250, 248, 248);
 }
-.card-body {
-
+.card:hover {
+transform: scale(1.05);
 }
 /*footer*/
 footer {
@@ -58,11 +58,11 @@ footer {
 }
 #details {
   margin-top: 70px;
-  padding: 20px;
-
+  margin-bottom: 50px;
+  padding-top: 50px;
 }
 .form-control {
-  background-color: silver;
+  background-color: rgb(219, 217, 217);
 }
  .btn:hover {
     transform: scale(1.05);
