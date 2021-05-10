@@ -19,11 +19,12 @@ body {
 /* hero section*/
 #hero {
   text-align: center;
-  padding: 70px;
+  padding: 50px;
+  margin-top: 50px;
 }
 .img-fluid {
-  width: 300px;
-  height: 300px;
+  width: 500px;
+  height: 500px;
   border-radius: 20%;
   float: center;
   top: 50%;
@@ -32,7 +33,7 @@ body {
   box-shadow: 3px 3px 10px rgba(0,0,0,.5);
   cursor: pointer;
   filter: grayscale(100%);
-  margin: 30px;
+  margin: inherit;
 }
 .img-fluid:hover {
   filter: grayscale(0%);
@@ -43,17 +44,17 @@ body {
 #header img {
   width: 220px;
   height: 220px;
-  border-radius: 20%;
+  border-radius: 0%;
   position: left;
   top: 50%;
-  right: 70%;
+  right: 50%;
   border: 5px solid white;
   box-shadow: 3px 3px 10px rgba(0,0,0,.5);
   cursor: pointer;
   transition: .5s;
   user-select: none;
   filter: grayscale(100%);
-  margin-bottom: 80px;
+  margin-left: inherit;
 }
 
 #header img:hover {
@@ -69,14 +70,13 @@ H1 {
 H2 {
   font-size: 2rem;
   font-weight: bold;
-  text-align: center;
-  margin: 30px;
+  margin-top: 20px;
 
 }
 /*cards*/
 .card {
   width: 280px;
-  height: 100%;
+  height: 90%;
   margin-top: 100px;
   margin-left: auto;
   margin-right: auto;
@@ -84,6 +84,13 @@ H2 {
 }
 .card:hover {
 transform: scale(1.05);
+}
+.card i {
+  color: rgb(112, 110, 110);
+  font-size: 40px;
+}
+.card i:hover {
+  transform: scale(1.20);
 }
 /*footer*/
 footer {
@@ -116,5 +123,8 @@ footer {
   text-align: center;
   margin: 50px;
   float:inline-end;
+  margin-top: 70px;
+  margin-bottom: 50px;
+  padding-top: 50px;
 }
    
