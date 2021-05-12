@@ -11,16 +11,18 @@ A mobile ready responsive portfolio, with links to three separate pages. There i
 ## Screenshots of Portfolio
 
 #### About Me
-![alt text](./assets/images/aboutMe.png "pic of Home page.")
+![alt text](./assets/images/about.png "pic of Home page.")
+
+![alt text](./assets/images/about.png "About Me page.")
 
 #### Portfolio
 Three projects are featured in portfolio
-![alt text](./assets/images/portfolio.png "pic of end of quiz.")
+![alt text](./assets/images/portfolio.png "portfolio page.")
 
 ### Contact Me
 My details are listed at the bottom of each page
-![alt text](./assets/images/contactMe.png "pic of end of quiz.")
-![alt text](./assets/images/myDetails.png "pic of end of quiz.")
+![alt text](./assets/images/contact.png "contact page.")
+![alt text](./assets/images/footer.png "pic of the footer.")
 
 
 ## View deployed Portfolio
