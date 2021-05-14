@@ -27,6 +27,11 @@ body {
 #pic1 {
   margin-top: 50px;
 }
+#btm {
+  text-align: center;
+  padding: 30px;
+  margin-top: 10px;
+}
 .img-fluid {
   width: 500px;
   height: 500px;
